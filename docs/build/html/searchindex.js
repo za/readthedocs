@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{index:0,search:0,modul:0,aloha:0,content:0,page:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to readthedocs 101&#8217;s documentation!"],objects:{},titleterms:{document:0,readthedoc:0,welcom:0,indic:0,tabl:0}})
