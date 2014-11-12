@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to readthedocs 101's documentation!
-===========================================
+OpenERP
+=======
 
 Contents:
 
@@ -13,14 +13,15 @@ Contents:
 
 Aloha
 
+****************
 Memulai OpenERP
-===============
+****************
 
 .. include:: bab01.rst
 
-
+************************
 Dasar-dasar Kustomisasi
-=======================
+************************
 
 .. include:: bab02.rst
 
