@@ -13,7 +13,18 @@ Contents:
 
 Aloha
 
+Memulai OpenERP
+===============
+
 .. include:: bab01.rst
+
+
+Dasar-dasar Kustomisasi
+=======================
+
+.. include:: bab02.rst
+
+.. include:: bab03.rst
 
 Indices and tables
 ==================
